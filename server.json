@@ -1,0 +1,15 @@
+{
+	 //this is just a example
+	"Listen":":7100",
+	//Set this positive value to enable dynamic server port support 
+	"MaxDynamicPort": 0,
+	//DynamicPort life time, default 30minutes(1800s)
+	"DynamicPortLifeCycle": 1800,
+	//If the server can ONLY export fixed ports, define them here
+	"CandidateDynamicPort":[],
+	"AdminListen": "127.0.0.1:60000",
+	//user name auth
+	"Auth":["*", "gsnova"],
+	"Encrypt":{"Key":"W9pjwiZonmE5P5qUlGAEdSG1ucZCi+CN1J1BEpyX"},
+	"Log": ["stdout", "server.log"]
+}
