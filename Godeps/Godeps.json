@@ -3,7 +3,7 @@
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Packages": [
-		"github.com/yinqiwen/gsnova/remote/paas"
+		"github.com/yinqiwen/gsnova/tree/master/remote/paas"
 	],
 	"Deps": [
 		{
