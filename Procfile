@@ -1,1 +1,1 @@
-web: paas
+web: gsnova
